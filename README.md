@@ -61,7 +61,7 @@ Me considero una persona **creativa, resolutiva y en constante aprendizaje**, co
 ### 🌐 Encuéntrame en
 <p align="center">
   <a href="https://miportafolio12.netlify.app"><img src="https://img.shields.io/badge/🌐%20Portafolio%20Web-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/alejandromex"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alejandromv03"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alejandromexff@gmail.com"><img src="https://img.shields.io/badge/📧%20Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 

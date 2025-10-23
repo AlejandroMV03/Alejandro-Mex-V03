@@ -1,6 +1,6 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=¡Hola!%20Soy%20Alejandro%20Mex%20👋&fontColor=ffffff&fontSize=35&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=¡Hola!%20Soy%20Alejandro%20Mex%20👨‍💻&fontColor=ffffff&fontSize=35&fontAlignY=35" />
 </p>
 
 <p align="center">

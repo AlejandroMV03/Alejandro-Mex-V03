@@ -1,4 +1,3 @@
-<!-- Encabezado con banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=¡Hola!%20Soy%20Alejandro%20Mex%20👨‍💻&fontColor=ffffff&fontSize=35&fontAlignY=35" />
 </p>
@@ -70,18 +69,27 @@ Me considero una persona **creativa, resolutiva y en constante aprendizaje**, co
 ### ⚡ Curiosidades
 - Me motiva **transformar ideas en sistemas reales**.  
 - Disfruto crear **interfaz modernas y bien estructuradas**.  
-- Siempre estoy buscando **nuevas formas de mejorar mis proyectos**.
+- Siempre estoy buscando **nuevas formas de mejorar mis proyectos**.  
+- 💡 Como decía un joven programador visionario que murió joven: _"Si puedes imaginarlo, puedes programarlo"_.  
 
 ---
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlejandroMV03&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMV03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center" style="font-size: 18px;">
+  <em>💭 "Si puedes imaginarlo, puedes programarlo."</em> <br>
+  <em>🌎 Campeche, México (UTC-6)</em> <br>
+  <em>⌨️ <img src="https://c.tenor.com/WBXxS25GvV4AAAAi/typing.gif" width="30" /></em>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" />
+  <img src="https://img.shields.io/badge/Hecho%20con%20💙%20por-Alejandro%20Mex-6C63FF?style=for-the-badge" />
 </p>
